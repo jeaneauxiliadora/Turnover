@@ -16,7 +16,7 @@ from sklearn.model_selection import KFold
 import matplotlib.pyplot as plt
 
 # Carregue os dados do arquivo CSV
-resultados_rh = pd.read_csv('ML/dados/HR_Artigo.csv')
+resultados_rh = pd.read_csv('Dados.csv')
 
 # Separe os dados em recursos (valores_rh) e a variável alvo (resultado)
 valores_rh = resultados_rh.drop(columns=["Attrition"])  # Recursos (todas as colunas, exceto "Attrition")
