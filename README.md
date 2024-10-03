@@ -8,6 +8,7 @@ Os dados utilizados neste projeto foram obtidos a partir do [IBM Employee Attrit
 
 
 ## Conteúdo do Repositório
+
 R/: Scripts em R para limpeza, análise e visualização dos dados.
 Python/: Scripts em Python para as mesmas finalidades.
 
