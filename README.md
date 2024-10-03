@@ -7,7 +7,7 @@ Este repositório contém uma análise de dados de turnover utilizando as lingua
 Os dados utilizados neste projeto foram obtidos a partir do [IBM Employee Attrition Dataset](https://www.kaggle.com/datasets/hannycharlotte/employee-attrition-ibm-dataset), disponível no Kaggle. Este conjunto de dados inclui informações detalhadas sobre os funcionários da IBM, como idade, cargo, salário, tempo de serviço, entre outros, e se eles deixaram ou não a empresa.
 
 
-##vConteúdo do Repositório
+## Conteúdo do Repositório
 R/: Scripts em R para limpeza, análise e visualização dos dados.
 Python/: Scripts em Python para as mesmas finalidades.
 
